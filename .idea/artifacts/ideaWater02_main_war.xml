@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ideaWater02_main:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ideaWater02_main_war</output-path>
+    <root id="archive" name="ideaWater02_main_war.war">
+      <element id="artifact" artifact-name="ideaWater02_main:war exploded" />
+    </root>
+  </artifact>
+</component>
